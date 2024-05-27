@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import image from '../images/image.png'
 import  './QrCode.css'
 
