@@ -1,0 +1,35 @@
+.qr-code-bloc {
+  width: 600px;
+  background-color:  hsl(0, 0%, 100%);
+  margin: 100px auto;
+  padding-top: 40px;
+  border-radius: 15px;
+}
+
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 450px;
+    width: 550px;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    white-space: wrap;
+    padding-bottom: 20px;
+    color: hsl(212, 45%, 89%);
+    font-weight: 400;
+    margin-left: 25px;
+    margin-right: 25px;
+}
